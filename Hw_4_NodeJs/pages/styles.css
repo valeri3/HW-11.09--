@@ -1,0 +1,18 @@
+body {
+    background-color: #6a6f75;
+    color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.btn-secondary {
+    background-color: #373c3f;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #48555e;
+    color: antiquewhite;
+}
